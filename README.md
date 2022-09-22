@@ -10,3 +10,6 @@
 ## This apis are documented Django Auth API With Djoser (v1)
 
 ## Endpoint can be accessed from /swagger which is the welcome link  or /redoc
+
+
+### For the documantation client collection containing the aall order features made by client and are protected
