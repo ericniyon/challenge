@@ -13,3 +13,5 @@
 
 
 ### For the documantation client collection containing the aall order features made by client and are protected
+
+# All Dependances are in requirements.txt file in project folder
